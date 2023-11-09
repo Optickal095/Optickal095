@@ -1,1 +1,5 @@
+# Ignorar archivos específicos
 .prettierignore
+
+# Ignorar la carpeta .vscode
+.vscode/
