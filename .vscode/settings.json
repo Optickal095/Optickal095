@@ -1,0 +1,6 @@
+{
+  "workbench.colorCustomizations": {
+    "sash.hoverBorder": "#3333ff"
+  },
+  "prettier.ignorePath": ".prettierignore"
+}
