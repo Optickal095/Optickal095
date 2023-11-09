@@ -16,4 +16,6 @@
 
 | **Comming Soon** |
 | :---: |
-| [![React Js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev) [![Symfony](http://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)](https://symfony.com){:target="_blank"}
+| [![React Js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev) [![Symfony](http://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)](https://symfony.com)
+
+
